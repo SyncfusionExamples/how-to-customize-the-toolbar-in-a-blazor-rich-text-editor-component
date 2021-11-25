@@ -1,0 +1,2 @@
+# how-to-customize-the-toolbar-in-a-blazor-rich-text-editor-component
+This quick-start project helps to customize the toolbar in the Blazor Rich Text Editor of Syncfusion in a Blazor WebAssembly app. This example explains how to add new built-in toolbar items, explains toolbar types, enable, and disable toolbar floating. Also, explains how to customize the quick toolbar for Links and Images in the RTE.
