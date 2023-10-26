@@ -4,13 +4,16 @@ The [Blazor Rich Text Editor](https://www.syncfusion.com/blazor-components/blazo
 
 This quick-start project helps to customize the toolbar in the Blazor Rich Text Editor of Syncfusion in a Blazor WebAssembly app. This example explains how to add new built-in toolbar items, explains toolbar types, enable, and disable toolbar floating. Also, explains how to customize the quick toolbar for Links and Images in the RTE.
 
-## Project prerequisites
-Make sure you have the compatible versions of .NET Core on your machine before starting to work on this project. You also need the following:
-* [Visual Studio 2019 (version 16.6+)]( https://visualstudio.microsoft.com/downloads)
-* [.NET Core SDK 3.1.3+](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+## Prerequisites
 
-## How to run this application
-To run this application, you need to first clone or download the ‘how to customize the toolbar in a blazor rich text editor component’ repository and then open it in Visual Studio 2019. Now, build and run your project to view the output.
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Further help
 To get more help, check out the [ASP.NET Core Blazor documentation](https://docs.microsoft.com/en-us/aspnet/core/blazor).
