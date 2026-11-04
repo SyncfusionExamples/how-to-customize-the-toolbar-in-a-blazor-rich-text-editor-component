@@ -1,19 +1,36 @@
 # How to Customize the Toolbar in a Blazor Rich Text Editor Component
 
-The [Blazor Rich Text Editor](https://www.syncfusion.com/blazor-components/blazor-wysiwyg-rich-text-editor?utm_source=github&utm_medium=listing&utm_campaign=blazor-rich-text-editor-github-samples) is a feature-rich WYSIWYG HTML editor and WYSIWYG Markdown editor. 
+The [Blazor Rich Text Editor](https://www.syncfusion.com/rich-text-editor-sdk/blazor-rich-text-editor) is a feature-rich WYSIWYG HTML editor and WYSIWYG Markdown editor.
 
 This quick-start project helps to customize the toolbar in the Blazor Rich Text Editor of Syncfusion in a Blazor WebAssembly app. This example explains how to add new built-in toolbar items, explains toolbar types, enable, and disable toolbar floating. Also, explains how to customize the quick toolbar for Links and Images in the RTE.
 
 ## Prerequisites
 
-* Visual Studio 2022 or later with .NET 10 SDK
+- Visual Studio 2026 or Visual Studio Code
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
 
 ## How to run the project
 
+**Visual Studio 2026**:
+
 * Checkout this project to a location in your disk.
-* Open the solution file using the Visual Studio 2022 or later with .NET 10 SDK.
-* Restore the NuGet packages by rebuilding the solution.
+* Open the project (`CustomizingToolbar.csproj`) file.
+* Restore the NuGet packages.
 * Run the project.
+
+**Visual Studio Code**
+
+* Open the repository folder in Visual Studio Code.
+* Open the integrated terminal.
+* Navigate to the repository root.
+
+```bash
+cd how-to-customize-the-toolbar-in-a-blazor-rich-text-editor-component
+dotnet restore
+dotnet run
+```
+
+Open the URL displayed in the terminal after the application starts.
 
 ## Further help
 To get more help, check out the [ASP.NET Core Blazor documentation](https://docs.microsoft.com/en-us/aspnet/core/blazor).
@@ -70,8 +87,8 @@ Customize all static texts used in the Blazor Rich Text Editor component using t
 [Learn More about Blazor Rich Text Editor](https://www.syncfusion.com/blazor-components/blazor-wysiwyg-rich-text-editor?utm_source=github&utm_medium=listing&utm_campaign=blazor-rich-text-editor-github-samples) <br/><br/>
 [Download Free Trial](https://www.syncfusion.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=blazor-rich-text-editor-github-samples) <br/><br/>
 [Pricing](https://www.syncfusion.com/sales/products/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-rich-text-editor-github-samples) <br/><br/>
-[Documentation](https://blazor.syncfusion.com/documentation/rich-text-editor/getting-started/?utm_source=github&utm_medium=listing&utm_campaign=blazor-rich-text-editor-github-samples) <br/><br/>
-[Online Examples](https://blazor.syncfusion.com/demos/rich-text-editor/overview?theme=bootstrap4?utm_source=github&utm_medium=listing&utm_campaign=blazor-rich-text-editor-github-samples) <br/><br/>
+[Documentation](https://help.syncfusion.com/rich-text-editor-sdk/blazor/rich-text-editor/getting-started-webapp/?utm_source=github&utm_medium=listing&utm_campaign=blazor-rich-text-editor-github-samples) <br/><br/>
+[Online Examples](https://blazor.syncfusion.com/demos/rich-text-editor/overview?theme=fluent2?utm_source=github&utm_medium=listing&utm_campaign=blazor-rich-text-editor-github-samples) <br/><br/>
 [Watch a How-to Video](https://www.syncfusion.com/tutorial-videos/blazor/rich-text-editor?title=create-a-rich-text-editor-in-a-blazor-server-application) <br/><br/>
 [Community Forums](https://www.syncfusion.com/forums/blazor-components/rich-text-editor?utm_source=github&utm_medium=listing&utm_campaign=blazor-rich-text-editor-github-samples) <br/><br/>
 [Suggest a feature](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-rich-text-editor-github-samples)
