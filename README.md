@@ -18,7 +18,7 @@ This quick-start project helps to customize the toolbar in the Blazor Rich Text 
 * Restore the NuGet packages.
 * Run the project.
 
-**Visual Studio Code**
+**Visual Studio Code**:
 
 * Open the repository folder in Visual Studio Code.
 * Open the integrated terminal.
